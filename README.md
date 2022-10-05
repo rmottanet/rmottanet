@@ -42,5 +42,8 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/c/RodrigoMottanet" target="_blank">
 	<img src="http://drive.google.com/uc?export=view&id=1F5WruZzJ4TxIk7ZAgTBojhLUpMwX8u0Y" width="30" height="30">
 </a>
+<a href="https://github.com/rmottainfo" target="_blank">
+	<img src="http://drive.google.com/uc?export=view&id=1p4tdVsEW5JanvdfhGiOtL-SrdtZamdwy" width="30" height="30">
+</a>
 </div>
 
