@@ -1,9 +1,4 @@
 ### Hi there 👋
-### I have a space passport. I am a citizen of Earth.
-## Cheers! :beers:
-
-<br/>
-<br/>
 
 <!--
 **rmottainfo/rmottainfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### I have a space passport. I am a citizen of Earth.
+## Cheers! :beers:
+
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="90" height="90" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="35" height="35" />      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="35" height="35" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="55" height="55" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="25" height="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20" height="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="45" height="45" />
 </div>
@@ -27,23 +25,23 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <div align="center">
-<a href="https://www.linkedin.com/in/rmottanet" target="_blank">
-	<img src="http://drive.google.com/uc?export=view&id=11QsOD9NnAeflhyHTACb3tpNLVHVysI2p" width="30" height="30">
+<a href="https://www.linkedin.com/in/rmottanet" style="text-decoration: none;" target="_blank">
+	<img src="https://drive.google.com/uc?export=view&id=1rfIblHP0oim9paZITH9yg5UlH-Dzvmll" width="30" height="30">
 </a>
-<a href="https://instagram.com/rmottanet" target="_blank">
-	<img src="http://drive.google.com/uc?export=view&id=1NDLRFX72DuLVSx7up9_jHkxkVi4vdmLe" width="30" height="30">
+<a href="https://instagram.com/rmottanet" style="text-decoration: none;" target="_blank">
+	<img src="https://drive.google.com/uc?export=view&id=1LQcJpengOznCOzvXJeba8K-XL--wPivb" width="30" height="30">
 </a>
-<a href="https://twitter.com/rmotta_" target="_blank">
-	<img src="http://drive.google.com/uc?export=view&id=1zTW0RFARGWIYnuQ7cENRdmMRHGwhYX2G" width="30" height="30">
+<a href="https://twitter.com/rmotta_" style="text-decoration: none;" target="_blank">
+	<img src="https://drive.google.com/uc?export=view&id=1ij8n6C9Xn1lu-4i9DARRMnU20U3VaGvp" width="30" height="30">
 </a>
 <a href="https://www.facebook.com/rmotta.net/" target="_blank">
-	<img src="http://drive.google.com/uc?export=view&id=1_L-UTmIB42j2bBOC96imSTbsIJdkMxWz" width="30" height="30">
+	<img src="http://drive.google.com/uc?export=view&id=10nYyFYkx54dAknFF_8RX0q46NuM7v9o9" width="30" height="30">
 </a>
-<a href="https://www.youtube.com/c/RodrigoMottanet" target="_blank">
-	<img src="http://drive.google.com/uc?export=view&id=1F5WruZzJ4TxIk7ZAgTBojhLUpMwX8u0Y" width="30" height="30">
+<a href="https://www.youtube.com/c/RodrigoMottanet" style="text-decoration: none;" target="_blank">
+	<img src="http://drive.google.com/uc?export=view&id=10PZcun2YgPTBmBFZhgSmnyE-jXvMLrx6" width="30" height="30">
 </a>
-<a href="https://github.com/rmottainfo" target="_blank">
-	<img src="http://drive.google.com/uc?export=view&id=1p4tdVsEW5JanvdfhGiOtL-SrdtZamdwy" width="30" height="30">
+<a href="https://github.com/rmottainfo" style="text-decoration: none;" target="_blank">
+	<img src="https://drive.google.com/uc?export=view&id=1C7ufYwukm_5Q0rn9AImy2vY3obdWOQd0" width="30" height="30">
 </a>
 </div>
 
