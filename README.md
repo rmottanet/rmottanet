@@ -27,19 +27,19 @@ Here are some ideas to get you started:
 <div align="center">
 <a href="https://www.linkedin.com/in/rmottanet" style="text-decoration: none;" target="_blank">
 	<img src="https://drive.google.com/uc?export=view&id=1rfIblHP0oim9paZITH9yg5UlH-Dzvmll" width="30" height="30">
-</a>
+</a>&nbsp;
 <a href="https://instagram.com/rmottanet" style="text-decoration: none;" target="_blank">
 	<img src="https://drive.google.com/uc?export=view&id=1LQcJpengOznCOzvXJeba8K-XL--wPivb" width="30" height="30">
-</a>
+</a>&nbsp;
 <a href="https://twitter.com/rmotta_" style="text-decoration: none;" target="_blank">
 	<img src="https://drive.google.com/uc?export=view&id=1ij8n6C9Xn1lu-4i9DARRMnU20U3VaGvp" width="30" height="30">
-</a>
+</a>&nbsp;
 <a href="https://www.facebook.com/rmotta.net/" target="_blank">
 	<img src="http://drive.google.com/uc?export=view&id=10nYyFYkx54dAknFF_8RX0q46NuM7v9o9" width="30" height="30">
-</a>
+</a>&nbsp;
 <a href="https://www.youtube.com/c/RodrigoMottanet" style="text-decoration: none;" target="_blank">
 	<img src="http://drive.google.com/uc?export=view&id=10PZcun2YgPTBmBFZhgSmnyE-jXvMLrx6" width="30" height="30">
-</a>
+</a>&nbsp;
 <a href="https://github.com/rmottainfo" style="text-decoration: none;" target="_blank">
 	<img src="https://drive.google.com/uc?export=view&id=1C7ufYwukm_5Q0rn9AImy2vY3obdWOQd0" width="30" height="30">
 </a>
