@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/rmotta_" style="text-decoration: none;" target="_blank">
 	<img src="https://lh3.googleusercontent.com/pw/AL9nZEVZaUipp0E-H1O1hmXk2SZqX3jKzlKrtbToLBAf8tvlXRtLuGhOwO9EinToPZsLIBPX6xIRDw_9Rv9wGZ4FLNStfA5l_sr4c7sh94xf8OcbSUEv0MaKYTawmJZZsd07YlwsBFvYjUFoUCmShmDm25ak=s64-p" width="30" height="30">
 </a>&nbsp;
-<a href="https://www.facebook.com/rmotta.net/" target="_blank">
+<a href="https://www.facebook.com/rmotta.net/" style="text-decoration: none;" target="_blank">
 	<img src="https://lh3.googleusercontent.com/pw/AL9nZEXBfa6Yc_KDeW5-wVYk6w867RUhpQQjK0joQK0O438v1SSOjtNdoNW1Y2jX0Hi6K3rHhTb79XkMn_9MSpxohNiMNjVgKcXkCm-Yx21ZoaCW7s5f6FD2D0CigzdBsmryGNN2c8ClPkXfjD_CRTvofBkc=s64-p" width="30" height="30">
 </a>&nbsp;
 <a href="https://www.youtube.com/c/RodrigoMottanet" style="text-decoration: none;" target="_blank">
