@@ -54,6 +54,6 @@ Here are some ideas to get you started:
 <br>
 <br>
 <p align="center">
-<a href="https://gitlab.com/rmotta.net"><img src="https://img.shields.io/badge/Gitlab--_.svg?style=social&logo=gitlab" alt="GitLab"></a>
+<a href="https://gitlab.com/rmottanet"><img src="https://img.shields.io/badge/Gitlab--_.svg?style=social&logo=gitlab" alt="GitLab"></a>
 <a href="https://www.youtube.com/channel/UCb7iKi3xd5okGSkCZC-lzbQ?view_as=subscriber"><img src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube" alt="YouTube"></a>
 </p>
