@@ -52,8 +52,9 @@ Here are some ideas to get you started:
 </div>
 <br>
 <br>
-<br>
+---
 <p align="center">
-<a href="https://gitlab.com/rmottanet"><img src="https://img.shields.io/badge/Gitlab--_.svg?style=social&logo=gitlab" alt="GitLab"></a>
-<a href="https://www.youtube.com/channel/UCb7iKi3xd5okGSkCZC-lzbQ?view_as=subscriber"><img src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube" alt="YouTube"></a>
+	<a href="https://bitbucket.org/rmottalabs/"><img alt="Static Badge" src="https://img.shields.io/badge/-Bitbucket?style=social&logo=bitbucket&logoSize=auto&label=Bitbucket&link=https%3A%2F%2Fbitbucket.org%2Frmottalabs%2Fworkspace%2Foverview%2F"></a>
+	<a href="https://gitlab.com/rmottanet"><img alt="Static Badge" src="https://img.shields.io/badge/-Gitlab?style=social&logo=gitlab&logoSize=auto&label=Gitlab&link=https%3A%2F%2Fgitlab.com%2Frmottanet"></a>
+	<a href="https://www.youtube.com/channel/UCb7iKi3xd5okGSkCZC-lzbQ?view_as=subscriber"><img alt="Static Badge" src="https://img.shields.io/badge/-YouTube?style=social&logo=youtube&logoSize=auto&label=Youtube&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCb7iKi3xd5okGSkCZC-lzbQ%3Fview_as%3Dsubscriber"></a>
 </p>
